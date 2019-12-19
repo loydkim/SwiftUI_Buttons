@@ -1,5 +1,7 @@
 # SwiftUI_Buttons
 
+![Image of Yaktocat](https://1.bp.blogspot.com/-b4mc_NDf4bA/XfvaBTaPSRI/AAAAAAAAA-w/sWNT1xwja8QdKLL9bwsrAua2xFNI9ZsXQCLcBGAsYHQ/s320/result4.png)
+
 * Reference links:
 
 1. Download SF Symbols: https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/
