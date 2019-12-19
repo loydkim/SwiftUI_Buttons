@@ -1,6 +1,6 @@
 # SwiftUI_Buttons
 
-![Image of Yaktocat](https://1.bp.blogspot.com/-b4mc_NDf4bA/XfvaBTaPSRI/AAAAAAAAA-w/sWNT1xwja8QdKLL9bwsrAua2xFNI9ZsXQCLcBGAsYHQ/s320/result4.png)
+![Image of Yaktocat](https://1.bp.blogspot.com/-oLb7OXTk6ts/Xfva0vntL7I/AAAAAAAAA_M/XoZFh9VnuMgVZQecf4Tbp1XaRlf91uQuQCLcBGAsYHQ/s1600/Screen%2BShot%2B2019-12-19%2Bat%2B3.17.10%2BPM.png)
 
 * Reference links:
 
